@@ -8,5 +8,5 @@ There are other methods also like onPreExecute(), onPostExecute() and publishPro
 To download data from any URL, just create an URL object and pass the http address in it's constructor.
 Then create an HttpURLConnection object and get reference from URL.openConnection() method.
 then just read the input stream of HttpURLConnection object in a string object and decode it.
-![](DownloaingImage%20using%20AsyncTask/Screenshot%20from%202019-04-11%2023-39-37.png)
-![](DownloaingImage%20using%20AsyncTask/Screenshot%20from%202019-04-11%2023-39-43.png)
+![](Screenshot%20from%202019-04-11%2023-39-37.png)
+![](Screenshot%20from%202019-04-11%2023-39-43.png)
